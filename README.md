@@ -1,7 +1,6 @@
 # Future-Investment-Value
        
-The problem was to write a script that would prompt the user to add values for the investment amount, annual interest rate,
-and the number of years and then calculate the future investment value using this formula: 
+       The problem was to write a script that would prompt the user to add values for the investment amount, annual interest rate, and the number of years and then calculate the future investment value using this formula: 
 
 futureInvestmentValue = investmentAmount * (1 + monthlyInterestRate)numberOfYears*12 
 
